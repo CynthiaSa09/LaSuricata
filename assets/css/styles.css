@@ -1,0 +1,27 @@
+
+
+.logo-footer{
+background-color: #e83e8c;
+}
+
+.logo-footer img{
+    width: 4vw;
+    height: 8vw;
+}
+
+i{
+    color: white;
+    margin-left: 1vw;
+}
+
+.cc {
+    background-color:#17a2b8;
+    width: 100%;
+    justify-content: center;
+    vertical-align: bottom;
+}
+
+
+.navbar{
+    background-color: #e83e8c;
+}
